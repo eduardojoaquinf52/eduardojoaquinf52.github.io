@@ -1,3 +1,7 @@
 # TFM data
-## Esta es el grafico de Gantt que usaremos para organizar el TFM
+
+### Diagrama de flujo propuesto 
+{% include 2tfm.png %}
+
+### Grafico de Gantt que usaremos para organizar el TFM
 {% include index.html %}
