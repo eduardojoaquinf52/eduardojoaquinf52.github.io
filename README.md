@@ -17,7 +17,7 @@ Luego de haber implementado esta solución EL SUPERMERCADO se dio cuenta que el 
 
 ### Grafico de Gantt para distribuir y organizar las tareas 
 [Enlace interactivo](https://eduardojoaquinf52.github.io/)
-{% include index.html %}
+[{% include index.html %}]
 
 ### Diagrama de flujo propuesto para los datos  
 ![flow](/_includes/2tfm.png)
